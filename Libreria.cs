@@ -184,7 +184,7 @@ namespace Semana12
         }
 
 
-        class Libreria
+        class Program
         {
             static void Main()
             {
